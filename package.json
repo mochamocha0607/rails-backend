@@ -11,5 +11,13 @@
     "start": "bundle exec foreman start"
   },
   "author": "",
-  "license": "ISC"
+  "license": "ISC",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/mochamocha0607/rails-backend.git"
+  },
+  "bugs": {
+    "url": "https://github.com/mochamocha0607/rails-backend/issues"
+  },
+  "homepage": "https://github.com/mochamocha0607/rails-backend#readme"
 }
